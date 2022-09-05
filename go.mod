@@ -1,4 +1,4 @@
-module github.com/SkurkovPavel/innValidator
+module github.com/ainoneko/innValidator
 
 go 1.17
 
